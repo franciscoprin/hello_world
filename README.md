@@ -1,3 +1,3 @@
 # hello_world
 
-I am developer 1, I do all the work.
+We are the developers, we do all the work.
